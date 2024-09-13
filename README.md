@@ -1,6 +1,8 @@
 # 3D-Wrist-Bone-Segmentation-Using-Deep-Learning
 
-![Wrist Bone Segmentation](https://github.com/yashp329/3D-Wrist-Bone-Segmentation-Using-Deep-Learning/blob/main/Dissertation_Results.png)
+<div align="center">
+  <img src="https://github.com/yashp329/3D-Wrist-Bone-Segmentation-Using-Deep-Learning/blob/main/Dissertation_Results.png" alt="Wrist Bone Segmentation">
+</div>
 
 ## Project Overview
 
