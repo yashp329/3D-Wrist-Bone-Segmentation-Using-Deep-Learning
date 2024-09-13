@@ -28,10 +28,7 @@ Our models achieved excellent performance, as evaluated by the Dice Score and AS
 
 ### Example Segmentations:
 1. **nnUNet** segmentation of the Ulna (Dice Score: 0.8724):  
-   ![Ulna Segmentation](./images/ulna_segmentation.png)
-
 2. **Ensemble** segmentation of the Scaphoid (Dice Score: 0.8934):  
-   ![Scaphoid Segmentation](./images/scaphoid_segmentation.png)
 
 ## Conclusion
 By employing multiple state-of-the-art deep learning models and an ensemble method, this project successfully demonstrated accurate segmentation of wrist bones from 3D MRI scans. The results show potential for integration into clinical workflows, aiding in faster and more accurate diagnoses. Both nnUNet and the ensemble method offer significant improvements in handling complex wrist anatomies, with the ability to apply these models to other orthopaedic diagnostic tools in the future.
