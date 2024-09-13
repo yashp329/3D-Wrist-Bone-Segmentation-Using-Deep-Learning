@@ -1,6 +1,6 @@
 # 3D-Wrist-Bone-Segmentation-Using-Deep-Learning
 
-![Wrist Bone Segmentation](./images/overall_segmentation.png)
+![Wrist Bone Segmentation](./dissertation_results.png)
 
 ## Project Overview
 
