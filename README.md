@@ -15,7 +15,7 @@ Medical image segmentation plays a critical role in improving diagnosis and trea
 - **Metrics for Performance**: Evaluated model performance using industry-standard metrics like Dice Score and ASSD, ensuring high-quality results.
 
 ## Dataset
-- **Data**: The dataset consists of 50 expert-annotated 3D MRI scans of the wrist, with each scan having a resolution of 128x128x48.
+- **Data**: The dataset consists of expert-annotated 3D MRI scans of the wrist, with each scan having a resolution of 128x128x48.
 - **Annotations**: 10 wrist bones, including the scaphoid, lunate, and triquetrum, are accurately labeled for training and testing.
 
 ## Preprocessing
